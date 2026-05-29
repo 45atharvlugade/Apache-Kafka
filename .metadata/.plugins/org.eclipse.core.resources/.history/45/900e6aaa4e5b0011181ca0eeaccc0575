@@ -1,0 +1,5 @@
+spring.application.name=Apache-Kafka-Producer-01
+
+app.tpc.name=raja
+
+spring.kafka.producer.bootstrap-servers=localhost:9092

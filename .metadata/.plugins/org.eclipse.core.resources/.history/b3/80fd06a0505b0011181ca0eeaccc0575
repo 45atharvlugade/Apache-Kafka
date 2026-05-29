@@ -1,0 +1,9 @@
+spring.application.name=Apache-Kafka-Subscriber-2
+
+
+
+app.tpc.name=nilam
+
+spring.kafka.consumer.bootstrap-servers=localhost:9092
+spring.kafka.producer.key-serializer=org.apache.common.serialization.StringSerialiver
+spring.kafka.producer.value-serializer=org.apache.common.serialization.StringSerialiver

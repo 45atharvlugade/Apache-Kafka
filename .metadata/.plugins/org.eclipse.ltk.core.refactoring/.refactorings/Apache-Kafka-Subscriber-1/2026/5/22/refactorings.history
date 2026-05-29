@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.arl.subscriber&apos; to &apos;Apache-Kafka-Subscriber-2/src/main/java/com.arl&apos;&#x0D;&#x0A;- Original project: &apos;Apache-Kafka-Subscriber-1&apos;&#x0D;&#x0A;- Destination element: &apos;Apache-Kafka-Subscriber-2/src/main/java/com.arl&apos;&#x0D;&#x0A;- Original element: &apos;Apache-Kafka-Subscriber-1/src/main/java/com.arl.subscriber&apos;" description="Copy package" destination="=Apache-Kafka-Subscriber-2/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.arl" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.arl.subscriber" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1780053931639" version="1.0"/>
+</session>

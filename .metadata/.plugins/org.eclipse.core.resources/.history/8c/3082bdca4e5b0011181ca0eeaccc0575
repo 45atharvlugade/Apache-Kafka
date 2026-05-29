@@ -1,0 +1,5 @@
+package com.arl.producer;
+
+public class KafkaMessageProducer {
+
+}

@@ -1,0 +1,13 @@
+package com.arl.subscriber;
+
+import org.springframework.kafka.annotation.KafkaListener;
+import org.springframework.stereotype.Component;
+
+@Component
+public class KafkaSubscribber {
+
+	@KafkaListener(topics="$s{app.tpc.name}",groupId = "grp1")
+	public void readMessage(String msg) {
+		System.out.println(msg);
+	}
+}

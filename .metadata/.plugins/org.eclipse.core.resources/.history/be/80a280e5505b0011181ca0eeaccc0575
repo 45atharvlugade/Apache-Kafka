@@ -1,0 +1,5 @@
+package com.arl.subscriber;
+
+public class KafkaSubscribber {
+
+}
